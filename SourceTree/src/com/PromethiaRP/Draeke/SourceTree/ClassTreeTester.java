@@ -4,8 +4,6 @@ import java.lang.reflect.Field;
 import java.util.Arrays;
 import java.util.Random;
 
-import org.schema.game.common.controller.EditableSendableSegmentController;
-import org.schema.game.common.controller.SegmentController;
 
 public class ClassTreeTester {
 

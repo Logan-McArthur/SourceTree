@@ -3,25 +3,18 @@ package com.PromethiaRP.Draeke.SourceTree;
 import java.lang.reflect.Method;
 import java.util.Arrays;
 
-import obfuscated.JS;
-import obfuscated.fX;
-
-import org.schema.game.common.controller.SegmentController;
-import org.schema.game.common.data.player.ControllerState;
-import org.schema.game.mod.ModManager;
-
 public class Main {
 	public static void main(String[] args) throws ClassNotFoundException {
-		ControllerState unit;
-		fX f;
-		SegmentController seg;
-		JS j;
-		ModManager mm;
-		
-		ClassTree tree = new ClassTree();
-		tree.insert(ControllerState.class);
-		tree.insert(fX.class);
-		tree.insert(SegmentController.class);
+//		ControllerState unit;
+//		fX f;
+//		SegmentController seg;
+//		JS j;
+//		ModManager mm;
+//		
+//		ClassTree tree = new ClassTree();
+//		tree.insert(ControllerState.class);
+//		tree.insert(fX.class);
+//		tree.insert(SegmentController.class);
 		
 		System.out.println();
 	}
