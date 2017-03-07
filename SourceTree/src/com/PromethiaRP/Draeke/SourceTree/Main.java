@@ -22,7 +22,6 @@ public class Main {
 	public static void processMethods(Method[] methods) {
 		for (Method mthd : methods) {
 			System.out.println(getMethodSignature(mthd));
-			
 		}
 	}
 	
